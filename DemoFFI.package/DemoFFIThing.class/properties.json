@@ -1,0 +1,14 @@
+{
+	"category" : "DemoFFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PierceNg 3/8/2016 15:51",
+	"instvars" : [
+		"handle" ],
+	"name" : "DemoFFIThing",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

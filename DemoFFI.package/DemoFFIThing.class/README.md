@@ -1,0 +1,1 @@
+I am the Smalltalk interface to libffidemo.

@@ -1,0 +1,3 @@
+accessing
+macModuleName
+	^ 'libffidemo.dylib'

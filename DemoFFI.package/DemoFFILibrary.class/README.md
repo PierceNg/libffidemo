@@ -1,0 +1,1 @@
+I contain the FFI to libffidemo.

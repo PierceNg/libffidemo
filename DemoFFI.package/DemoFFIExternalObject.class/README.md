@@ -1,0 +1,1 @@
+I represent a handle to a 'demo_thing' C-level object.
