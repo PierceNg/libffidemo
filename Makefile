@@ -1,5 +1,5 @@
 lib = libffidemo
-CFLAGS = -m32
+CFLAGS = -m32 -Wall
 
 # detect platform
 ifeq ($(OS),Windows_NT)
