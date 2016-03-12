@@ -7,8 +7,8 @@
 	"commentStamp" : "PierceNg 3/12/2016 12:09",
 	"instvars" : [
 		 ],
-	"name" : "DemoFFIError",
+	"name" : "DemoFFIAutoThingTest",
 	"pools" : [
 		 ],
-	"super" : "Error",
+	"super" : "DemoFFIThingTest",
 	"type" : "normal" }

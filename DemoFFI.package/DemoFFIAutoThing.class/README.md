@@ -1,0 +1,1 @@
+I am the Smalltalk interface to libffidemo. I manage finalization/cleanup of libffidemo's C-level resources automatically.

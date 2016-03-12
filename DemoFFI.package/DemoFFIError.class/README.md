@@ -1,1 +1,1 @@
-I represent an error in libnothing.
+I represent an error in DemoFFI.

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apiAllocByPointerPointer:" : " 3/11/2016 23:40:52",
+		"apiAllocByReturnedPointer" : " 3/11/2016 23:40:52",
+		"apiFree:" : " 3/11/2016 23:40:52",
+		"apiGetValue:into:" : " 3/11/2016 23:40:52",
+		"apiReturnValue:" : " 3/11/2016 23:40:52",
+		"apiSetValue:with:" : " 3/11/2016 23:40:52",
+		"macModuleName" : " 3/11/2016 23:40:52",
+		"unixModuleName" : " 3/11/2016 23:40:52" } }

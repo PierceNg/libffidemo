@@ -1,0 +1,1 @@
+I provide the test cases for DemoFFIAutoThing.

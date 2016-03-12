@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "PierceNg 3/12/2016 12:09",
+	"commentStamp" : "PierceNg 3/12/2016 12:00",
 	"instvars" : [
 		 ],
-	"name" : "DemoFFIError",
+	"name" : "DemoFFIAutoThing",
 	"pools" : [
 		 ],
-	"super" : "Error",
+	"super" : "DemoFFIThing",
 	"type" : "normal" }
