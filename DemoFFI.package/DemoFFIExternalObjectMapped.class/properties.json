@@ -1,0 +1,14 @@
+{
+	"category" : "DemoFFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PierceNg 3/13/2016 10:59",
+	"instvars" : [
+		 ],
+	"name" : "DemoFFIExternalObjectMapped",
+	"pools" : [
+		 ],
+	"super" : "FFIExternalObject",
+	"type" : "normal" }

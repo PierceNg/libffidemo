@@ -1,0 +1,14 @@
+{
+	"category" : "DemoFFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DemoFFITypeMappedThingTest",
+	"pools" : [
+		 ],
+	"super" : "DemoFFIThingTest",
+	"type" : "normal" }
