@@ -3,7 +3,7 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"TypeMap" ],
 	"commentStamp" : "PierceNg 3/8/2016 15:51",
 	"instvars" : [
 		 ],
