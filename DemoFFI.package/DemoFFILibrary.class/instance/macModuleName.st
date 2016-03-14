@@ -1,3 +1,3 @@
 accessing platform
 macModuleName
-	^ 'libffidemo.dylib'
+	^ (FileLocator imageDirectory / 'libffidemo.dylib') fullName
