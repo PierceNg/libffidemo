@@ -10,5 +10,5 @@
 	"name" : "DemoFFIExternalObject",
 	"pools" : [
 		 ],
-	"super" : "FFIExternalObject",
+	"super" : "FFIOpaqueObject",
 	"type" : "normal" }
