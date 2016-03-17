@@ -2,5 +2,5 @@ class initialization
 initializeTypeMap
 
 	TypeMap := Dictionary newFromPairs: #(
-		demo_thing    DemoFFIExternalObjectMapped
+		demo_thing    FFIOpaqueObject
 	)

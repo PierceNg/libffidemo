@@ -1,3 +1,3 @@
 initializing/finalizing
 initialize
-	handle := DemoFFIExternalObjectMapped new.
+	handle := FFIOpaqueObject new.

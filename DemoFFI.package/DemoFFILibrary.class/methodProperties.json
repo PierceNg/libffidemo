@@ -2,7 +2,7 @@
 	"class" : {
 		"ffiBindingOf:" : "PierceNg 3/13/2016 09:54",
 		"initialize" : "PierceNg 3/13/2016 09:52",
-		"initializeTypeMap" : "PierceNg 3/13/2016 10:59" },
+		"initializeTypeMap" : "PierceNg 3/17/2016 21:36" },
 	"instance" : {
 		"apiAllocByMappedPointerPointer:" : "PierceNg 3/13/2016 09:51",
 		"apiAllocByMappedReturnedPointer" : "PierceNg 3/17/2016 12:30",
